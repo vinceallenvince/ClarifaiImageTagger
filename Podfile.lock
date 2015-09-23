@@ -1,0 +1,12 @@
+PODS:
+  - FastttCamera (0.3.2):
+    - FastttCamera/Default (= 0.3.2)
+  - FastttCamera/Default (0.3.2)
+
+DEPENDENCIES:
+  - FastttCamera
+
+SPEC CHECKSUMS:
+  FastttCamera: 4e758cc2bf5564effc654346cac320c09a550164
+
+COCOAPODS: 0.37.2
